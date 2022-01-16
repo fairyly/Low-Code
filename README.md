@@ -73,3 +73,12 @@ Low-Code
 - [gitee-ubml/ubml-impl](https://gitee.com/ubml/ubml-impl)
 
 
+## mometa
+
+>面向研发的低代码元编程，代码可视编辑，辅助编码工具
+
+- [实现原理](https://github.com/imcuttle/mometa/blob/master/docs/how-to-work.md)
+
+- [mcuttle/mometa](https://github.com/imcuttle/mometa)
+
+
