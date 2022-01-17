@@ -40,6 +40,11 @@ Low-Code
 - 项目作者：百度开源
 - 开源许可协议：Apache-2.0
 
+- amis 有两种使用方法：
+
+  - JS SDK，可以用在任意页面中
+  - React，可以用在 React 项目中
+
 - [github-baidu/amis](https://github.com/baidu/amis)
 - [gitee-baidu/amis](https://gitee.com/baidu/amis)
 
